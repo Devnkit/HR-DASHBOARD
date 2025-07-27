@@ -27,4 +27,4 @@ The data includes information on employee demographics, job roles, performance r
 
 6. Screenshot/Demos:
    Show what the dashboard looks like. - ![Alt text](https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
-   Example: ![Dashboard Preview](https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
+   (https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
