@@ -26,16 +26,5 @@ The data includes information on employee demographics, job roles, performance r
 📌 Dynamic Slicers: Filter by Overtime, Work-life Balance, Environment Satisfaction
 📉 Trend Charts to visualize historical attrition trends
 
-6. Example Use Cases & Visual Highlights:
-📌 Example 1: "Attrition Heatmap by Department"
-Visualizes attrition concentration across different departments using a color-coded matrix, helping identify departments with high turnover rates at a glance.
-📌 Example 2: "Satisfaction vs. Attrition Scatter Plot"
-A scatter chart that compares job satisfaction scores with attrition status—revealing strong correlations between low satisfaction and high attrition.
-📌 Example 3: "KPI Card for Overall Attrition Rate"
-Displays a summary card showing the overall attrition rate, average age of attrited employees, and average years spent in the company.
-📌 Example 4: "Interactive Slicers for Filtering"
-Users can filter insights by gender, education level, marital status, and overtime to uncover hidden attrition patterns.
-📌 Example 5: "Attrition Trend Over Time"
-A line chart showing monthly or yearly attrition trends, highlighting any seasonal spikes or dips in employee exits.
-📌 Example 6: "Drill-through: Employee Profile View"
-Clicking on any employee segment opens a detailed profile view—showcasing satisfaction levels, income, years at company, and attrition flag.
+6. Screenshot/Demos
+   (https://github.com/Devnkit/HR-DASHBOARD/blob/main/DASHBOARD)
