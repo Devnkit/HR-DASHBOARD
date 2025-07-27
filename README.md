@@ -9,10 +9,10 @@ The HR Attrition Analysis Dashboard is a visually appealing and analytical Power
 3. Tech Stack
 The dashboard was built using the following tools and technologies:
 
-🖥️ Power BI Desktop – Main data visualization platform used for report creation.
-🛠️ Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
-📊 DAX (Data Analysis Expressions) – Used for calculated measures, KPIs, dynamic filtering, and conditional logic.
-🔗 Data Model – Relationships established among tables (employees, job roles, departments, satisfaction levels, etc.) to enable cross-filtering and aggregation.
+🖥️ Power BI Desktop 
+🛠️ Power Query 
+📊 DAX (Data Analysis Expressions) 
+🔗 Data Model
 
 4. Data Source
 The primary dataset used is the IBM HR Analytics Employee Attrition & Performance dataset, publicly available on platforms like Kaggle.
