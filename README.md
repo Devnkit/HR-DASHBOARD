@@ -13,11 +13,11 @@ The HR Attrition Analysis Dashboard is a visually appealing and analytical Power
 📊 DAX (Data Analysis Expressions) 
 🔗 Data Model
 
-4. Data Source
+4. Data Source:
 The primary dataset used is the IBM HR Analytics Employee Attrition & Performance dataset, publicly available on platforms like Kaggle.
 The data includes information on employee demographics, job roles, performance ratings, satisfaction scores, and attrition status.
 
-5. Feature Highlights
+5. Feature Highlights:
 📈 Attrition Breakdown by Department, Job Role, and Education
 👤 Employee Profile Filters (Age, Gender, Education, Marital Status)
 🎯 Key Metrics: Attrition Rate, Avg Monthly Income, Years at Company
@@ -25,5 +25,5 @@ The data includes information on employee demographics, job roles, performance r
 📌 Dynamic Slicers: Filter by Overtime, Work-life Balance, Environment Satisfaction
 📉 Trend Charts to visualize historical attrition trends
 
-6. Screenshot/Demos
+6. Screenshot/Demos:
    (https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
