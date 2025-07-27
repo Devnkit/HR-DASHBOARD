@@ -7,8 +7,6 @@ A dynamic and interactive data visualization tool developed to analyze employee 
 The HR Attrition Analysis Dashboard is a visually appealing and analytical Power BI report designed to help HR teams, decision-makers, and business analysts understand the key factors driving employee attrition. The dashboard highlights metrics like attrition rates by department, age group, job role, and satisfaction levels. It enables organizations to identify risk areas and make informed interventions to enhance employee retention.
 
 3. Tech Stack
-The dashboard was built using the following tools and technologies:
-
 🖥️ Power BI Desktop 
 🛠️ Power Query 
 📊 DAX (Data Analysis Expressions) 
