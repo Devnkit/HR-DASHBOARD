@@ -26,4 +26,5 @@ The data includes information on employee demographics, job roles, performance r
 📉 Trend Charts to visualize historical attrition trends
 
 6. Screenshot/Demos:
-   (https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
+   Show what the dashboard looks like. - ![Alt text](https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
+   Example: ![Dashboard Preview](https://github.com/Devnkit/HR-DASHBOARD/blob/main/Dashboard.png)
